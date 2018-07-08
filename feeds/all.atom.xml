@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>学佛</title><link href="http://pure.yongqing.space/" rel="alternate"></link><link href="http://pure.yongqing.space/feeds/all.atom.xml" rel="self"></link><id>http://pure.yongqing.space/</id><updated>2013-04-18T00:00:00+02:00</updated><entry><title>测试</title><link href="http://pure.yongqing.space/about.html" rel="alternate"></link><published>2013-04-18T00:00:00+02:00</published><updated>2013-04-18T00:00:00+02:00</updated><author><name>miaoyin</name></author><id>tag:pure.yongqing.space,2013-04-18:/about.html</id><summary type="html">&lt;p&gt;这里是内容&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;def main():
-  pass
-&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;这里是内容&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;def main():
-  pass
-&lt;/pre&gt;&lt;/div&gt;</content><category term="标签1"></category><category term="标签2"></category></entry></feed>
